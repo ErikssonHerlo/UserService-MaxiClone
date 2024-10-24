@@ -29,11 +29,11 @@ The **User Service** is responsible for managing users across different roles, h
 
 ## Tech Stack
 
-- **Java 17**
+- **Java 22**
 - **Spring Boot**
 - **Spring Security**
 - **Spring Data JPA**
-- **H2 Database** (development)
+- **MySQL** (development)
 - **MySQL** (production)
 - **OpenAPI / Swagger** for API documentation
 - **RabbitMQ** (for notification purposes)
